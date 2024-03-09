@@ -2,7 +2,6 @@
 <h5>Back-End developer | php | Laravel</h5>
 
 <br/>
-<br/>
 
 <div align="center">
   <h3 align="center">My Skills :</h3>
@@ -14,7 +13,7 @@
 <br/>
 <br/>
 
-- 
+- I'm currently learning latest technology about Laravel , php and ...
 - I'm Student in Kermanshah university of technology (computer engineering)</p>
 
 <br/>
@@ -44,3 +43,4 @@
 <br/>
 
 - My Blod : <a href="https://thezoom.ir" target="_blank">thezoom.ir</a>
+- My personal site : <a href="https://hosseinnzr.ir" target="_blank">thezoom.ir</a>
