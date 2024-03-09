@@ -22,6 +22,12 @@
 <div align="center">
   <h3 align="center">Contant :</h3>
 
+                    
+<p align="center">
+    <a href="https://www.linkedin.com/in/hossein-nzr/" target="_blank">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50"/>
+    </a>
+
   <a href="mailto:nazari.hossein28@gmaail.com" target="_blank">
     <img width="50px" src="https://www.nidirect.gov.uk/sites/default/files/styles/nigov_full_620_x1/public/images/email_logo.jpg?itok=ifUhNgCT" />
   </a>
