@@ -46,10 +46,3 @@
 - My Blog : <a href="https://thezoom.ir" target="_blank">thezoom.ir</a>
 - My personal site : <a href="https://hosseinnzr.ir" target="_blank">hosseinnzr.ir</a>
 
-
-<div align="center">
-  <h3>🐍 My Contributions 🐍</h3>
-
-  <img alt="Snake moving around" src="https://raw.githubusercontent.com/hosseinnzr/hosseinnzr/output/github-contribution-grid-snake.svg" />
-
-</div>
