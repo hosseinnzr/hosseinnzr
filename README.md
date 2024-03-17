@@ -1,5 +1,4 @@
 <h1>Hi I'm hossein nazari</h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hosseinnzr.hosseinnzr" />
 <h5>Back-End developer | php | Laravel</h5>
 
 <br/>
