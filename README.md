@@ -6,7 +6,7 @@
 <div align="center">
   <h3 align="center">My Skills :</h3>
 
-  <img src="https://skillicons.dev/icons?i=laravel,php,tailwind,bootstrap,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=laravel,livewire,php,tailwind,bootstrap,git,github,html,css" />
   
 </div>
 
