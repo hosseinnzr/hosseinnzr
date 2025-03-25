@@ -45,5 +45,5 @@
 
 - My Blog : <a href="https://thezoom.ir" target="_blank">thezoom.ir</a>
 - My personal site : <a href="https://hosseinnzr.ir" target="_blank">hosseinnzr.ir</a>
-- My social network project : <a href="https://hosseinnzr.ir" target="_blank">social.thezoom.ir</a> - V2.0 
+- My social network project : <a href="https://hosseinnzr.ir" target="_blank">social.thezoom.ir</a> - V2.0 - not available 
 
