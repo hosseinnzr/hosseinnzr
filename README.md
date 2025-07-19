@@ -46,4 +46,4 @@
 - My Blog : <a href="https://thezoom.ir" target="_blank">thezoom.ir</a>
 - My personal site : <a href="https://hosseinnzr.ir" target="_blank">hosseinnzr.ir</a>
 - My social network project : <a href="https://hosseinnzr.ir" target="_blank">social.thezoom.ir</a> - V2.0 - not available 
-
+- My telegram crypto channel : <a href="https://t.me/crypto_bit_pr" target="_blank">@crypto_bit_pr</a>
