@@ -18,31 +18,6 @@
 
 <br/>
 
-<div align="center">
-  <h3 align="center">Contant :</h3>
-
-                    
- <p align="center">
-  <a href="https://www.linkedin.com/in/hossein-nzr/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="mailto:nazari.hossein28@gmaail.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-
-  <a href="https://t.me/+989164992639" target="_blank" margin="0 1rem">
-    <img width="50px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" />
-  </a>
-
-  <a href="https://wa.me/+989164992639" target="_blank">
-    <img width="50px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/WhatsApp.png" />
-  </a>
- </p>
-</div>
-
-<br/>
-
 - My Blog : <a href="https://thezoom.ir" target="_blank">thezoom.ir</a>
 - My personal site : <a href="https://hosseinnzr.ir" target="_blank">hosseinnzr.ir</a>
 - My telegram crypto channel : <a href="https://t.me/crypto_bit_pr" target="_blank">@crypto_bit_pr</a>
