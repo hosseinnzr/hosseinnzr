@@ -1,5 +1,5 @@
 <h1>Hi I'm hossein nazari</h1>
-<h5>Back-End developer | php | Laravel | Python | Security </h5>
+<h5>Python | Security | Laravel | php</h5>
 
 <br/>
 
