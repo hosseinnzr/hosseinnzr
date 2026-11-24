@@ -34,4 +34,3 @@
 <br/>
 
 - My Blog & personal projects : <a href="https://thezoom.ir" target="_blank">thezoom.ir</a>
-- My telegram crypto channel : <a href="https://t.me/crypto_bit_pr" target="_blank">@crypto_bit_pr</a>
