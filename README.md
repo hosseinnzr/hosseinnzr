@@ -11,13 +11,6 @@
 </p>
 
 <p align="center">
-  <b>OS & DevOps</b><br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows,docker" />
-  </a>
-</p>
-
-<p align="center">
   <b>Databases & Dev Tools</b><br/><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,vscode,postman,git,arduino" />
